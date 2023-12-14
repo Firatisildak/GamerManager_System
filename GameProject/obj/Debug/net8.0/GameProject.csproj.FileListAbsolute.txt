@@ -1,0 +1,14 @@
+C:\Users\firat\source\repos\GameProject\GameProject\bin\Debug\net8.0\GameProject.exe
+C:\Users\firat\source\repos\GameProject\GameProject\bin\Debug\net8.0\GameProject.deps.json
+C:\Users\firat\source\repos\GameProject\GameProject\bin\Debug\net8.0\GameProject.runtimeconfig.json
+C:\Users\firat\source\repos\GameProject\GameProject\bin\Debug\net8.0\GameProject.dll
+C:\Users\firat\source\repos\GameProject\GameProject\bin\Debug\net8.0\GameProject.pdb
+C:\Users\firat\source\repos\GameProject\GameProject\obj\Debug\net8.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firat\source\repos\GameProject\GameProject\obj\Debug\net8.0\GameProject.AssemblyInfoInputs.cache
+C:\Users\firat\source\repos\GameProject\GameProject\obj\Debug\net8.0\GameProject.AssemblyInfo.cs
+C:\Users\firat\source\repos\GameProject\GameProject\obj\Debug\net8.0\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\GameProject\GameProject\obj\Debug\net8.0\GameProject.dll
+C:\Users\firat\source\repos\GameProject\GameProject\obj\Debug\net8.0\refint\GameProject.dll
+C:\Users\firat\source\repos\GameProject\GameProject\obj\Debug\net8.0\GameProject.pdb
+C:\Users\firat\source\repos\GameProject\GameProject\obj\Debug\net8.0\GameProject.genruntimeconfig.cache
+C:\Users\firat\source\repos\GameProject\GameProject\obj\Debug\net8.0\ref\GameProject.dll
