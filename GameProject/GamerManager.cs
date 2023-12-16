@@ -8,16 +8,16 @@ namespace GameProject
 {
     internal class GamerManager : IGamerService
     {
-        IUserValidationService _userValidationService;
+        UserValidationManager _userValidationManager;
 
-        public GamerManager(IUserValidationService userValidationService)
+        public GamerManager(UserValidationManager userValidationManager)
         {
-            _userValidationService = userValidationService;
+            _userValidationManager = userValidationManager;
         }
 
         public void Add(Gamer gamer)
         {
-            if (_userValidationService.Validate(gamer)==true)
+            if (_userValidationManager.Validate(gamer)==true)
             {
                 Console.WriteLine("Kayıt oldu.");
             }

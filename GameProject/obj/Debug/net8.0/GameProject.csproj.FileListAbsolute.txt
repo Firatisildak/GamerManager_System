@@ -12,3 +12,4 @@ C:\Users\firat\source\repos\GameProject\GameProject\obj\Debug\net8.0\refint\Game
 C:\Users\firat\source\repos\GameProject\GameProject\obj\Debug\net8.0\GameProject.pdb
 C:\Users\firat\source\repos\GameProject\GameProject\obj\Debug\net8.0\GameProject.genruntimeconfig.cache
 C:\Users\firat\source\repos\GameProject\GameProject\obj\Debug\net8.0\ref\GameProject.dll
+C:\Users\firat\source\repos\GameProject\GameProject\obj\Debug\net8.0\GameProject.sourcelink.json
